@@ -1,3 +1,4 @@
+/* Auteur : Yvelin A. Ray */
 package com.example.inventory
 
 import android.view.LayoutInflater
